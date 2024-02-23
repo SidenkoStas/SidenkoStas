@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my site
 - 🌱 I’m currently deeply learning DRF
-- 👯 I’m looking to collaborate on ...
 
 ### My skills include:
 
