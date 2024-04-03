@@ -23,4 +23,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SidenkoStas&theme=solarized_dark)
 
 
-> ![](https://komarev.com/ghpvc/?username=SidenkoStas)
+### Leetcode:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Oknedis&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
