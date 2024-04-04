@@ -25,3 +25,6 @@
 
 ### Leetcode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Oknedis&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+### Codewars:
+[![codewars](https://www.codewars.com/users/Oknedis/badges/large)](https://www.codewars.com/users/Oknedis)   
